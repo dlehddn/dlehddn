@@ -1,13 +1,12 @@
 <h2> Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"width="30"></h2>
 
 Welcome to my page!<br>
-I'm DongWoo Lee, Student studying Cloud engineering & Software development.<br>
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=dong-woo%20%20&theme=kakao)](https://dong-woo.tistory.com) <br>
+I'm DongWoo Lee, Student studying Cloud engineering & Software development.<br><br>
 
 
 
-## ⚡ Technologies & Tools
-
+## ⚡ Languages & Tools
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -19,5 +18,12 @@ I'm DongWoo Lee, Student studying Cloud engineering & Software development.<br>
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+
+
+
+
+
