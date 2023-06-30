@@ -1,7 +1,7 @@
 <h2> Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"width="30"></h2>
 
 Welcome to my page!<br>
-I'm DongWoo Lee, Student studying Cloud engineering & Software development.<br><br>
+I'm DongWoo Lee, Student studying Back-end development & Cloud engineering.<br><br>
 
 
 
