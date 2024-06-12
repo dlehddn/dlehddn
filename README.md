@@ -1,5 +1,5 @@
 <div align= "center">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact: ldw28517@gmail.com </h3> <br> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Junior Backend Engineer </h3> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
