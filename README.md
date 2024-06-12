@@ -1,9 +1,10 @@
 <h2> Welcome to my page! </h2>
-
-- Junior Backend Engineer
-
-- Contact: ldw28517@gmail.com
-
+<br>
+- **Junior Backend Engineer**
+<br>
+- **Contact: ldw28517@gmail.com**
+<br>
+<br>
 
 ## Skills
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
