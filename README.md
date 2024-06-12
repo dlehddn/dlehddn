@@ -1,4 +1,5 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldw28517)](https://solved.ac/ldw28517)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlehddn)
 
 ## Skills
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
