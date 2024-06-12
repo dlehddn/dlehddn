@@ -1,11 +1,11 @@
-<h2> Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"width="30"></h2>
+<h2> Welcome to my page! </h2>
 
-Welcome to my page!<br>
-I'm DongWoo Lee, Student studying Back-end development & Cloud engineering.<br><br>
+- Junior Backend Engineer
+
+- Contact: ldw28517@gmail.com
 
 
-
-## ⚡ Languages & Tools
+## Skills
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
