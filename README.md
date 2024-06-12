@@ -1,8 +1,8 @@
 <h2> Welcome to my page! </h2>
 <br>
-- **Junior Backend Engineer**
+- Junior Backend Engineer
 <br>
-- **Contact: ldw28517@gmail.com**
+- Contact: ldw28517@gmail.com
 <br>
 <br>
 
